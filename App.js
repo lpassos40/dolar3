@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import {View, Text, TextInput, TouchableOpacity, StyleSheet, SafeAreaView, Keyboard, ImageBackground} from 'react-native';
+import {View, Text, TextInput, TouchableOpacity, StyleSheet, SafeAreaView, Keyboard} from 'react-native';
   import axios from 'axios'
 
 export default function App(){
